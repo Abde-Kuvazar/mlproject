@@ -1,1 +1,1 @@
-## en - to ent machine learning project 
+## end - to end machine learning project 
